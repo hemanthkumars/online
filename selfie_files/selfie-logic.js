@@ -79,3 +79,7 @@ let goToOrderDetailPage=function () {
     document.getElementsByClassName("orderdetailpage")[0].style.zIndex=2;
 }
 
+let openTableChoose=function () {
+    document.getElementsByClassName("backdrop2")[0].style.zIndex=2;
+    document.getElementsByClassName("choosetable")[0].style.zIndex=3;
+}
