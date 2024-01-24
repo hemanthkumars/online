@@ -366,7 +366,7 @@ html[data-w-dynpage] [data-w-cloak] {
   font-size: 12px !important;
   line-height: 14px !important;
   text-decoration: none !important;
-  display: inline-block !important;
+  display: none !important;
   position: fixed !important;
   top: auto !important;
   bottom: 12px !important;
@@ -380,7 +380,7 @@ html[data-w-dynpage] [data-w-cloak] {
   visibility: visible !important;
   opacity: 1 !important;
   vertical-align: middle !important;
-  display: inline-block !important;
+  display: none !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
